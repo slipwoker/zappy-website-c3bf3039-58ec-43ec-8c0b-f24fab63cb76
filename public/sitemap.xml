@@ -19,15 +19,15 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://nihullistim.zappy5.app/contact</loc>
-    <lastmod>2026-02-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://nihullistim.zappy5.app/services/website-content-entry</loc>
     <lastmod>2026-02-27</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nihullistim.zappy5.app/contact</loc>
+    <lastmod>2026-02-27</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
