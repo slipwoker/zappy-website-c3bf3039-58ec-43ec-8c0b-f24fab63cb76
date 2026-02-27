@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+צוותים אורגניים של מומחי תוכן שמשתלבים בפרויקטים שלכם. מתמחים בהזנת תוכן לכל פלטפורמות ה-CMS, עם אחריות שנתית וניסיון בפרויקטים בקנה מידה גדול.
+
+### אודות
+https://example.com/about
+החברה שמגיעה מעולם הקופירייטינג ומביאה מומחיות בכל פלטפורמות ה-CMS. אנחנו מתמחים ב-SEO, חוויית משתמש, ועומדים בלוחות זמנים עם דיוק מוחלט.
+
+### שירותים
+https://example.com/services
+הזנת תוכן למאות עמודים ואלפי קבצים. מתמחים ב-WordPress, Wix, Umbraco ו-Force. כולל אחריות שנתית וסרטוני הדרכה לצוותים שלכם לאחר סיום הפרויקט.
+
+### צור קשר
+https://example.com/contact
+מוכנים להתחיל? צרו קשר עם צוות המומחים שלנו ותגלו איך אנחנו יכולים לשדרג את התוכן הדיגיטלי שלכם. ניסיון עם בנקים, חברות ביטוח ורשתות שיווק.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
