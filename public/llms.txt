@@ -1,6 +1,4 @@
-# ניהוליסטים — Generative Engine Optimization Map
-
-> Nihulistim is a content entry service company that provides organic teams of content specialists who integrate into client projects. The company originates from the copywriting world, offering expertise in all major CMS platforms (WordPress, Wix, Umbraco, Force), with strong knowledge in SEO and user experience. They emphasize precision, meeting deadlines, and have experience handling large-scale projects with hundreds of pages and thousands of files. Their unique value includes year-long responsibility guarantees and training videos for client teams.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -40,15 +38,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About ניהוליסטים
-Nihulistim is a content entry service company that provides organic teams of content specialists who integrate into client projects. The company originates from the copywriting world, offering expertise in all major CMS platforms (WordPress, Wix, Umbraco, Force), with strong knowledge in SEO and user experience. They emphasize precision, meeting deadlines, and have experience handling large-scale projects with hundreds of pages and thousands of files. Their unique value includes year-long responsibility guarantees and training videos for client teams.
-
-## Target Audience
-חברות צרכנות, חנויות וירטואליות, אתרים שיווקיים, חברות ביטוח, בנקים, חברות תחבורה, בתי השקעות, רשתות שיווק
-
-## Industry
-content management and digital services
-
+## About Business
 ---
 
 # Additional Resources
