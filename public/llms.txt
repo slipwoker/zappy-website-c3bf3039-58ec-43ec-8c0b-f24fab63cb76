@@ -20,6 +20,26 @@ https://nihullistim.zappy5.app/services
 https://nihullistim.zappy5.app/contact
 מוכנים להתחיל? צרו קשר עם צוות המומחים שלנו ותגלו איך אנחנו יכולים לשדרג את התוכן הדיגיטלי שלכם. ניסיון עם בנקים, חברות ביטוח ורשתות שיווק.
 
+### בלוג ניהוליסטים
+https://nihullistim.zappy5.app/blog
+ניהוליסטים - בלוג ניהוליסטים
+
+### אתר תדמית
+https://nihullistim.zappy5.app/blog/site-content-10-20-pages
+מדריך פרקטי להזנת תוכן לאתר תדמית קטן-בינוני: מיפוי עמודים, הכנת חומרים, תבניות CMS, בדיקות איכות והשקה רגועה בזמן.
+
+### תהליך
+https://nihullistim.zappy5.app/blog/cms-workflow-quality
+איך בונים תהליך הזנת תוכן שמייצר אתר עקבי ואמין: תבניות, צ'קליסטים, בקרת איכות ושיתופי פעולה מול עיצוב ופיתוח.
+
+### מיגרציה
+https://nihullistim.zappy5.app/blog/content-migration-rebrand
+צ'קליסט תוכני למעבר לאתר חדש: מיפוי כתובות, התאמת רכיבים, שמירה על SEO, ניקוי תכנים והתמודדות עם פערים בין עיצוב ישן לחדש.
+
+### תחזוקה
+https://nihullistim.zappy5.app/blog/content-governance-small-sites
+עקרונות ממשל תוכן פשוטים לאתרי תדמית: אחריות, תדירות עדכון, סטנדרטים לכתיבה, ודרך עבודה שמונעת הזנחה.
+
 ## Legal & Policy
 
 ### Privacy Policy
