@@ -28,6 +28,10 @@ https://nihullistim.zappy5.app/contact
 https://nihullistim.zappy5.app/services/marketing-website-content-entry
 ניהוליסטים - הזנת תוכן לאתר שיווקי (עם סטנדרט רגולטורי)
 
+### חנויות
+https://nihullistim.zappy5.app/services/ecommerce-content-entry
+ניהוליסטים - הזנת תוכן לחנות וירטואלית
+
 ## Legal & Policy
 
 ### Privacy Policy
