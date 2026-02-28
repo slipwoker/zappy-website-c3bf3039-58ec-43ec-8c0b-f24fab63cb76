@@ -32,6 +32,26 @@ https://nihullistim.zappy5.app/services/marketing-website-content-entry
 https://nihullistim.zappy5.app/services/ecommerce-content-entry
 ניהוליסטים - הזנת תוכן לחנות וירטואלית
 
+### בלוג הזנת תוכן — ניהוליסטים
+https://nihullistim.zappy5.app/blog
+ניהוליסטים - בלוג הזנת תוכן — ניהוליסטים
+
+### תהליך
+https://nihullistim.zappy5.app/blog/content-entry-workflow
+מדריך מעשי לבניית workflow להזנת תוכן: אחריות, תבניות, בקרת איכות וסנכרון מול גורמים מרובים — כך שההשקה לא תיתקע.
+
+### רגולציה
+https://nihullistim.zappy5.app/blog/regulatory-content-entry
+איך לנהל הזנת תוכן לאתרי פיננסים/ביטוח/תחבורה עם בקרת גרסאות, אישורים ותיעוד — בלי להאט את העסק.
+
+### איקומרס
+https://nihullistim.zappy5.app/blog/ecommerce-content-standards
+מפרט תוכן מוצר, עקביות נתונים, תמונות, וריאציות ושדות חובה — כך שהחנות נראית אמינה וממירה.
+
+### ממשל
+https://nihullistim.zappy5.app/blog/cms-governance
+הגדרת תפקידים, הרשאות ותהליכי אישור ב‑CMS כדי לנהל אתר שיווקי/ארגוני לאורך זמן בלי טעויות ותלות באנשים ספציפיים.
+
 ## Legal & Policy
 
 ### Privacy Policy

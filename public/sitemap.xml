@@ -43,6 +43,36 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://nihullistim.zappy5.app/blog</loc>
+    <lastmod>2026-02-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nihullistim.zappy5.app/blog/content-entry-workflow</loc>
+    <lastmod>2026-02-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nihullistim.zappy5.app/blog/regulatory-content-entry</loc>
+    <lastmod>2026-02-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nihullistim.zappy5.app/blog/ecommerce-content-standards</loc>
+    <lastmod>2026-02-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nihullistim.zappy5.app/blog/cms-governance</loc>
+    <lastmod>2026-02-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://nihullistim.zappy5.app/privacy</loc>
     <lastmod>2026-02-28</lastmod>
     <changefreq>monthly</changefreq>
